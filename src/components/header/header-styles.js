@@ -1,6 +1,7 @@
 import styled from "styled-components";
 import { Link } from "react-router-dom";
 
+
 export const NavWrapper = styled.header`
 background-color:red;
 background-color: ${(props) => props.theme.primaryColor};
